@@ -1,9 +1,4 @@
-
-
-<br />
-
-Hi 👋 My name is Shobin
-=====================
+<h1 align="center"> Hi 👋 My name is Shobin </h1>
 
 **About me**
 
