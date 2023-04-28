@@ -7,7 +7,7 @@
 * 🚀  I'm currently working on [Rental properties site](https://github.com/Shobi172/SmartSpace)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborate
-* ⚡  working on 
+* ⚡  working on new website
 
 #### Skills
 
