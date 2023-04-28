@@ -2,7 +2,7 @@
 
 **About me**
 
-* 🌍  I'm based in Kozhikode,Kerala
+* 🌍  I'm based in Kozhikode, Kerala
 * ✉️  You can contact me at [Mail](mailto:shobinshaju@gmail.com)
 * 🚀  I'm currently working on [Rental properties site](https://github.com/Shobi172/SmartSpace)
 * 🧠  I'm learning Typescript
