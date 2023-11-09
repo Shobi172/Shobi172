@@ -25,10 +25,6 @@
 <p align="left"> <a href="http://www.instagram.com/shob_in_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/shobin-shaju/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-<h2>⚡ Stats<h2>
-
-![Shobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobi172&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
 <h2> Top Languages<h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobi172&langs_count=10&layout=compact&hide=html&hide_border=true&hide_title=true&card_width=445&text_color=FFFFFF&bg_color=0D1117)
