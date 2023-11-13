@@ -12,8 +12,8 @@
 <h2> Skills<h2>
 
 <div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,tailwind,git,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,docker" /><br>
 </div> 
 
 
