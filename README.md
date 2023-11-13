@@ -1,11 +1,11 @@
 <h1 align="center"> Hi 👋 I Am Shobin </h1>
 
-<h2> About me<h2>
+<h2> About me <h2>
 
-* 🌍  I'm based in Kozhikode, Kerala
+* 🌍  I'm based in Kozhikode, Kerala, India
 * ✉️  You can contact me at [Mail](mailto:shobinshaju@gmail.com)
 * 🚀  I'm currently working on [Rental properties site](https://github.com/Shobi172/SmartSpace)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Docker
 * 🤝  I'm open to collaborate
 * ⚡  working on new website
 
